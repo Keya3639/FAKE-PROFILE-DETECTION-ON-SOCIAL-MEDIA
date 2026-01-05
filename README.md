@@ -109,3 +109,7 @@ Together, these tools make the project stable, modular, and production-ready.
 The Fake Profile Detection System demonstrates how Machine Learning and Django can work together to solve real-world online safety problems.By analyzing profile patterns instead of relying on manual checks, this project provides a smart approach toward identifying suspicious accounts and improving digital security.
 With further improvement and larger datasets, it can evolve into a powerful verification tool for social media platforms and research communities.
 ## OUTPUT:
+<img width="643" height="637" alt="Image" src="https://github.com/user-attachments/assets/e222c1bb-68a3-4351-a8d5-770a32a0ed2d" />
+<img width="507" height="830" alt="Image" src="https://github.com/user-attachments/assets/8c1916c8-8328-4372-85f6-6afc787d8e3b" />
+<img width="565" height="792" alt="Image" src="https://github.com/user-attachments/assets/a2d915ba-726e-48cf-ac0a-f9e950e6bc43" />
+<img width="563" height="515" alt="Image" src="https://github.com/user-attachments/assets/dd78bf26-108f-4b11-ba68-5f8d102a179f" />
